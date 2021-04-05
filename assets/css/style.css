@@ -1,0 +1,24 @@
+/* Левая менюшка */
+.left-menu {
+  border-right: 1px solid rgb(221, 221, 221);
+  height: 870px;
+  padding: 0;
+}
+.lmenubtn {
+  color: rgb(97, 97, 97);
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.lmenubtn:hover {
+  background: rgb(226, 243, 250);
+  color: rgb(97, 97, 97);
+}
+.lmenubtn i {
+  margin-right: 10px;
+}
+.mbot10 {
+  margin-bottom: 10px;
+}
+.prim_main {
+  margin: 10px;
+}
